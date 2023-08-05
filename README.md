@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer/Data Engineer who likes to build stuff.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/nischal96687227" target="blank"><img src="https://img.shields.io/twitter/follow/nischal96687227?logo=twitter&style=for-the-badge" alt="nischal96687227" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
